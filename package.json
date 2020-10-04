@@ -2,7 +2,7 @@
   "name": "tengja_shared_d",
   "version": "1.0.0",
   "description": "Shared files and types between front and backend of tengja project",
-  "main": "src/index.ts",
+  "main": "index.ts",
   "repository": "https://github.com/utkusarioglu/tengja_shared_d.git",
   "author": "Utku Sarioglu <utkusarioglu@hotmail.com>",
   "license": "MIT"
